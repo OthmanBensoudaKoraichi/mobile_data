@@ -1,0 +1,22 @@
+# --- Data files ---
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+
+# --- Environment ---
+.env
+venv/
+__pycache__/
+*.pyc
+
+# --- MacOS junk ---
+.DS_Store
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Project outputs ---
+outputs/
+datasets/
+recaps/
